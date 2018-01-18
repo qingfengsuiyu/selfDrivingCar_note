@@ -1,0 +1,3 @@
+/Users/haoxiaoyi/CLionProjects/Augmentation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/haoxiaoyi/CLionProjects/Augmentation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haoxiaoyi/CLionProjects/Augmentation/cmake-build-debug/CMakeFiles/Augmentation.dir
